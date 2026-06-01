@@ -20,4 +20,4 @@ I am a passionate developer focused on creating engaging 2D/3D games and practic
 ---
 
 ### 📊 My GitHub Stats
-![Tuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThunaQ&show_icons=true&theme=dark)
+![Tuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TunaHA&show_icons=true&theme=dark)
