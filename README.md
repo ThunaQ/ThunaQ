@@ -20,6 +20,11 @@ I am a developer focused on building engaging 2D/3D games and practical desktop 
 - Developing ScreenTranslator, a screen-capture translation tool built to solve a real, everyday problem.
 - Advancing my English proficiency and software engineering best practices.
 
-## GitHub Stats
+## Tech Stack
 
-![Tuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThunaQ&show_icons=true&theme=dark)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
