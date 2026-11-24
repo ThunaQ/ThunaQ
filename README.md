@@ -9,7 +9,7 @@
 
 ---
 
-### [ScreenTranslate](https://github.com/ThunaQ/ScreenTranslator)
+### [ScreenTranslator](https://github.com/ThunaQ/ScreenTranslator)
 
 - Screen-capture OCR and multi-language translation desktop application built with C# and Tesseract.
 - Features region selection, fast text extraction, instant translation, installer packaging, and automated CI/CD release workflows.
