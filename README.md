@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tuna 👋
+# Hi, I'm Tuna
 
 **Information Systems Engineering Student & Software Developer**
 
@@ -13,20 +13,20 @@ I build fast, lightweight desktop utilities and software designed to solve every
 
 ---
 
-### 🎯 What I'm Focused On
+### What I'm Focused On
 
-- 🖥️ **Windows Desktop & System Tools:** Developing responsive C# / WPF utilities using native Win32 hooks, WASAPI audio engines, and WinRT APIs.
-- 🎮 **Game Development & Architecture:** Experimenting with 3D gameplay systems, networking, and object-oriented design in Unity and C++.
-- 📊 **Data, ERP & Practical AI:** Exploring relational databases (SQL Server), enterprise systems, and applied artificial intelligence projects.
+-  **Windows Desktop & System Tools:** Developing responsive C# / WPF utilities using native Win32 hooks, WASAPI audio engines, and WinRT APIs.
+-  **Game Development & Architecture:** Experimenting with 3D gameplay systems, networking, and object-oriented design in Unity and C++.
+-  **Data, ERP & Practical AI:** Exploring relational databases (SQL Server), enterprise systems, and applied artificial intelligence projects.
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center"><a href="https://github.com/ThunaQ/WinVolumeFlyout">🔊 WinVolumeFlyout</a></h4>
+      <h4 align="center"><a href="https://github.com/ThunaQ/WinVolumeFlyout"> WinVolumeFlyout</a></h4>
       <p align="center">
         A modern Windows 11 volume mixer and system-wide media control flyout built with <b>C# & WPF</b>. Features per-app WASAPI volume sliders, live peak meters, instant output device switching, and hardware volume key interception.
       </p>
@@ -36,7 +36,7 @@ I build fast, lightweight desktop utilities and software designed to solve every
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center"><a href="https://github.com/ThunaQ/ScreenTranslator">🌐 ScreenTranslator</a></h4>
+      <h4 align="center"><a href="https://github.com/ThunaQ/ScreenTranslator"> ScreenTranslator</a></h4>
       <p align="center">
         A lightweight screen-capture OCR and multi-language translation desktop tool built with <b>C# & Tesseract</b>. Includes region selection, instant text extraction, installer packaging, and automated CI/CD release workflows.
       </p>
@@ -50,7 +50,7 @@ I build fast, lightweight desktop utilities and software designed to solve every
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -66,7 +66,7 @@ I build fast, lightweight desktop utilities and software designed to solve every
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
