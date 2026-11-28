@@ -32,7 +32,7 @@ I build fast, lightweight desktop utilities and software designed to solve every
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/.NET-10.0-512BD4?style=flat-square&logo=dotnet" alt=".NET 10" />
-        <img src="https://img.shields.io/github/last-commit/ThunaQ/WinVolumeFlyout?style=flat-square&logo=github" alt="Last Commit" />
+        <img src="https://img.shields.io/github/v/release/ThunaQ/WinVolumeFlyout?style=flat-square&logo=github" alt="Release" />
       </p>
     </td>
     <td width="50%" valign="top">
